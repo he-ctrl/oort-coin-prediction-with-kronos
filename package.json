@@ -1,0 +1,1 @@
+{"dependencies":{"next":"latest","react":"latest","react-dom":"latest"},"name":"oort-coin-prediction","private":true,"scripts":{"build":"next build","dev":"next dev","start":"next start"},"version":"1.0.0"}
